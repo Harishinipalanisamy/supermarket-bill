@@ -1,0 +1,6 @@
+2024-06-18 18:44:06.848963
+your bill is morethen 1000 rs
+ use offertotal is 1900
+GST:5.0
+offer1900
+offer bill with GST 2000.0
